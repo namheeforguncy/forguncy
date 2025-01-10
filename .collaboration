@@ -177,12 +177,6 @@
   },
   {
     "ModuleName": "PCPage/페이지2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "AzureAD\\NancyKim",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2025-01-10T15:52:37.1614155+09:00",
     "ModuleType": 1
   }
 ]
