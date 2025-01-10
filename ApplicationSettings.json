@@ -1,0 +1,39 @@
+{
+  "IntegrateWithOtherApplication": {
+    "Password": "u$xWL651MXqc"
+  },
+  "ShareCommandContainers": [],
+  "ListviewLoadingIndicatorSettings": {},
+  "GlobalProperties": [],
+  "WebSitePort": 23470,
+  "UserServicePort": 63467,
+  "StartDateFiscalYear": 4,
+  "BaseOnStartingMonth": true,
+  "MultipleLanguageSettings": {
+    "Languages": [
+      {
+        "Name": "kr",
+        "IsDefault": true,
+        "Description": "한국어가 내장되어 있어 삭제할 수 없습니다.",
+        "IsBuildIn": true,
+        "LanguageAttribute": "ko-kr",
+        "FontFamily": "Body"
+      },
+      {
+        "Name": "en",
+        "Description": "영어가 내장되어 있어 삭제할 수 없습니다.",
+        "IsBuildIn": true,
+        "LanguageAttribute": "en",
+        "FontFamily": "Calibri"
+      }
+    ],
+    "PublicResource": {},
+    "RuntimeBuiltInResource": {
+      "FrontEndResources": {},
+      "ServerResources": {},
+      "ProcessDesignerResource": {},
+      "ProcessTrackerResource": {}
+    },
+    "PluginResource": {}
+  }
+}
